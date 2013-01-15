@@ -1,0 +1,13 @@
+td
+{
+	color:#f00;
+}
+#ip
+{
+	border: 0px;
+}
+#ip:active 
+{
+	border: 0px;
+	color:#f00;
+}
