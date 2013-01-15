@@ -1,0 +1,282 @@
+body
+{
+	margin:0,auto;
+}
+input {
+    border: 5px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,250,0.6),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,250,0.6),
+            0 0 16px rgba(0,0,0,0.3); 
+    padding: 2px;
+    background: rgba(255,255,255,0.5);
+	font-size:20px;
+}
+input:focus
+{
+	outline:none;
+}
+input:hover
+{
+	border:none;
+	outline:none;
+}
+
+input:active
+{
+	outline:none;
+}
+input:target
+{
+	outline:none;
+}
+td
+{
+	border: 1px solid;
+	width: 30px;
+	height: 30px;
+}
+/*#cell_01
+{
+	border-top: 5px  solid black;
+	border-left: 5px solid black;
+	visibility: visible;
+}
+#cell_02
+{
+	border-bottom: 5px  solid black;
+	border-left: 5px solid black;
+	border-right: 5px solid black;
+	visibility: visible;
+}
+#cell_03
+{
+	visibility: hidden;
+}
+#cell_04
+{
+	visibility: hidden;
+}
+#cell_05
+{
+	visibility: hidden;
+}
+#cell_06
+{
+	visibility: hidden;
+}
+#cell_07
+{
+	visibility: hidden;
+}
+
+#cell_12
+{
+	/*border-top: 5px  solid black;
+	border-bottom: 5px  solid black;
+	border-right: 5px solid black;
+	visibility: visible;
+}
+#cell_11
+{
+	border-top: 5px  solid black;
+	border-left: 5px solid black;
+	visibility: visible;
+}
+#cell_21
+{
+	border-bottom: 5px  solid black;
+	border-left: 5px solid black;
+	border-right: 5px solid black;
+	visibility: visible;
+}
+#cell_13
+{
+	visibility: hidden;
+}
+#cell_14
+{
+	visibility: hidden;
+}
+#cell_15
+{
+	visibility: hidden;
+}
+#cell_16
+{
+	visibility: hidden;
+}
+#cell_17
+{
+	visibility: hidden;
+}
+#cell_22
+{
+	visibility: hidden;
+}
+#cell_23
+{
+	visibility: hidden;
+}
+#cell_24
+{
+	visibility: hidden;
+}
+#cell_25
+{
+	visibility: hidden;
+}
+#cell_26
+{
+	visibility: hidden;
+}
+#cell_27
+{
+	visibility: hidden;
+}
+
+#cell_31
+{
+	visibility: hidden;
+}
+#cell_32
+{
+	visibility: hidden;
+}
+#cell_33
+{
+	visibility: hidden;
+}
+#cell_34
+{
+	visibility: hidden;
+}
+#cell_35
+{
+	visibility: hidden;
+}
+#cell_36
+{
+	visibility: hidden;
+}
+#cell_37
+{
+	visibility: hidden;
+}
+#cell_41
+{
+	visibility: hidden;
+}
+#cell_42
+{
+	visibility: hidden;
+}
+#cell_43
+{
+	visibility: hidden;
+}
+#cell_44
+{
+	visibility: hidden;
+}
+#cell_45
+{
+	visibility: hidden;
+}
+#cell_46
+{
+	visibility: hidden;
+}
+#cell_47
+{
+	visibility: hidden;
+}
+#cell_51
+{
+	visibility: hidden;
+}
+#cell_52
+{
+	visibility: hidden;
+}
+#cell_53
+{
+	visibility: hidden;
+}
+#cell_54
+{
+	visibility: hidden;
+}
+#cell_55
+{
+	visibility: hidden;
+}
+#cell_56
+{
+	visibility: hidden;
+}
+#cell_57
+{
+	visibility: hidden;
+}
+#cell_61
+{
+	visibility: hidden;
+}
+#cell_62
+{
+	visibility: hidden;
+}
+#cell_63
+{
+	visibility: hidden;
+}
+#cell_64
+{
+	visibility: hidden;
+}
+#cell_65
+{
+	visibility: hidden;
+}
+#cell_66
+{
+	visibility: hidden;
+}
+#cell_67
+{
+	visibility: hidden;
+}
+#cell_71
+{
+	visibility: hidden;
+}
+#cell_72
+{
+	visibility: hidden;
+}
+#cell_73
+{
+	visibility: hidden;
+}
+#cell_74
+{
+	visibility: hidden;
+}
+#cell_75
+{
+	visibility: hidden;
+}
+#cell_76
+{
+	visibility: hidden;
+}
+#cell_77
+{
+	visibility: hidden;
+}*/
