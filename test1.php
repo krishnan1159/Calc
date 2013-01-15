@@ -9,4 +9,9 @@
 		<td>sd cell</td>
 		<td>Td Cell</td>
 	</tr>
+	<tr>
+		<td>ft cell</td>
+		<td>sd cell</td>
+		<td>Td Cell</td>
+	</tr>
 </table>
