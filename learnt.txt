@@ -1,0 +1,5 @@
+While doing this project,
+
+I have learned to hide the outline of input tag 
+
+using "outline" attribute of CSS.
